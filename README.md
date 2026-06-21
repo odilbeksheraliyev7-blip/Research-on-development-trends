@@ -1,9 +1,6 @@
-# Project-4
-Project 4: Open Data Analysis Platform. Exploring educational data trends using Python, visualized through a modern web interface.
-We are building a research platform that analyzes open data regarding education and society, transforming complex numbers into clear, professional visualizations using modern web technologies. 
-Project Goal
-Our mission is not just to write code, but to conduct data-driven research. We aim to make open data accessible, understandable, and actionable for everyone by converting raw statistics into insightful dashboards.
-Data Collection: Gathering open data from data.gov.uz and other reliable sources.
-Analysis: Processing and extracting key metrics using Python.
-Visualization: Presenting results via a web-based dashboard for public access.
-This project is built for research, social impact, and collaborative professional development.
+# IT provision in Uzbekistan
+My goal is to bridge the gap between raw public data and actionable insights in Uzbekistan. I believe that many social and economic challenges can be addressed by applying rigorous data analysis to the information already available to us.
+
+In this project, I take open datasets from official government sources and process them using Python. Instead of just looking at numbers, I am trying to visualize current trends, identify regional disparities, and understand how technological infrastructure is actually evolving across our provinces.
+
+Data-driven decision-making is essential for progress. By analyzing these records, I aim to provide a clear picture of where resources are concentrated and where more attention is needed. My approach is simple: identify a real-world problem, analyze the data using programming tools, and draw conclusions that can lead to better outcomes.
